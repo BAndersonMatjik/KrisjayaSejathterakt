@@ -1,0 +1,3 @@
+rootProject.name='KrisjayaSejathtera'
+include ':app'
+include ':core'
